@@ -1,0 +1,6 @@
+echo "# bb88" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/brocksboltz88/bb88.git
+git push -u origin master
